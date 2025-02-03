@@ -24,10 +24,10 @@ __pycache__/
 *.class
 
 # Environment files
-.env
-.env.local
-.env.*.local
-*.env
+.venv
+.venv.local
+.venv.*.local
+*.venv
 
 # Logs
 logs/
